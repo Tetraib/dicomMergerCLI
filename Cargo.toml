@@ -1,5 +1,5 @@
 [package]
-name = "dicomMergerCLI"
+name = "dicom_merger_cli"
 version = "0.1.0"
 authors = ["Thibaut Constant"]
 edition = "2021"
